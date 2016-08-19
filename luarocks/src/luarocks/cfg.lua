@@ -309,6 +309,7 @@ local defaults = {
 
    rocks_servers = {
       {
+        "https://raw.githubusercontent.com/hughperkins/rocks-cl/master",
         "https://raw.githubusercontent.com/torch/rocks/master",
         "https://luarocks.org",
         "https://raw.githubusercontent.com/rocks-moonscript-org/moonrocks-mirror/master/",
