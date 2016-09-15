@@ -1002,7 +1002,7 @@ end
 local f = io.open(vars.CONFIG_FILE, "w")
 f:write([=[
 rocks_servers = {
-   [[https://raw.githubusercontent.com/torch/rocks/master]],
+   [[https://raw.githubusercontent.com/spijdar/rocks/master]],
    [[https://raw.githubusercontent.com/rocks-moonscript-org/moonrocks-mirror/master]]
 }
 rocks_trees = {
